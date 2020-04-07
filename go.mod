@@ -1,4 +1,4 @@
-module github.com/stefaanc/golang-exec
+module github.com/opsani/golang-exec
 
 go 1.13
 
